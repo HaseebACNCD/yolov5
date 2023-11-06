@@ -1,0 +1,9 @@
+
+train: E:/AI/data/train/images/
+val: E:/AI/data/valid/images/
+
+nc: 1
+
+# Classes
+names:
+  - cow nose
